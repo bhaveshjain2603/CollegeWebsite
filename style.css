@@ -521,8 +521,7 @@ section{
 }
 #page7 img{
     max-width: 1100px;
-    position: absolute;
-    
+    justify-content: space-between;
     margin: 10px;
     row-gap: 10vw;
 }
